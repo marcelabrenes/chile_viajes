@@ -1,5 +1,7 @@
-.who{
+body{
     font-family: 'Open Sans', sans-serif;
+}
+.who{
     background: black;
     color: white;
 }
